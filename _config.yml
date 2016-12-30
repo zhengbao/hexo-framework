@@ -5,14 +5,14 @@
 # Site
 title: 幻觉的仪式
 subtitle:
-description:
+description: holler if you feel like you've been down the same road
 author: zbb
-language:
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zbb.github.io/
+url: https://zhengbao.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,13 +64,14 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: yilia
+# theme: yilia
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/zbb/zbb.github.io
+  repo: http://github.com/zhengbao/zhengbao.github.io
   branch: master
 
 
