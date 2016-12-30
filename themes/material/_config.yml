@@ -85,9 +85,9 @@ fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "
 # SNS Menu
 sns:
     email: chaorenbaby@163.com
-    twitter: 
-    facebook: 
-    googleplus: 
+    # twitter: 
+    # facebook: 
+    # googleplus: 
     weibo: 
     instagram: 
     tumblr: 
@@ -95,8 +95,8 @@ sns:
 
 # Sidebar User Dropdown
 dropdown: 
-    Email Me: 
-        link: "#"
+    Email Me:
+        link: "mailto:chaorenbaby@163.com"
         icon: email
 
 # Pages Menu
